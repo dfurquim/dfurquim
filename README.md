@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Derick, I have a PhD in electrical engineering and I'm currently working as a postdoctoral researcher at the Laboratory of Advanced Electric Grids (LGrid), Polytechnic School of the University of São Paulo, Brazil.
+My name is Derick, I have a PhD in electrical engineering and I'm currently working as a postdoctoral researcher at the [Laboratory of Advanced Electric Grids (LGrid)](https://www.linkedin.com/company/lgrid-poli-usp/), Polytechnic School of the University of São Paulo, Brazil.
 
 <!---  [publication](https://ieeexplore.ieee.org/abstract/document/9040637)   --->
 
